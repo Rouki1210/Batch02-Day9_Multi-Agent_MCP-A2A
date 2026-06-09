@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Bài báo Thanh Niên ngày 14/11/2024 nêu những người nào bị bắt liên quan ma túy?",
+    "expected_answer": "Bài báo nêu Công an TP.HCM khởi tố, bắt tạm giam Nguyễn Trung Hiếu, tức ca sĩ Chi Dân; Nguyễn Thị An, tức người mẫu An Tây; và Nguyễn Đỗ Trúc Phương vì liên quan ma túy.",
+    "expected_context": "article_01_bat-ca-si-chi-dan-nguoi-mau-an-tay-nguyen-do-truc-phuong-lien-quan-ma-tuy-185241114120254879.md"
+  },
+  {
+    "question": "Ca sĩ Chi Dân được bài báo Thanh Niên nhắc tới với tên thật là gì?",
+    "expected_answer": "Ca sĩ Chi Dân được bài báo nhắc tới với tên thật là Nguyễn Trung Hiếu.",
+    "expected_context": "article_01_bat-ca-si-chi-dan-nguoi-mau-an-tay-nguyen-do-truc-phuong-lien-quan-ma-tuy-185241114120254879.md"
+  },
+  {
+    "question": "Người mẫu An Tây trong bài báo Thanh Niên có tên thật là gì?",
+    "expected_answer": "Người mẫu An Tây có tên thật là Nguyễn Thị An.",
+    "expected_context": "article_01_bat-ca-si-chi-dan-nguoi-mau-an-tay-nguyen-do-truc-phuong-lien-quan-ma-tuy-185241114120254879.md"
+  },
+  {
+    "question": "Theo bài báo Thanh Niên, Chi Dân, An Tây và Nguyễn Đỗ Trúc Phương bị điều tra về hành vi gì?",
+    "expected_answer": "Ba người bị nêu liên quan hành vi tổ chức sử dụng trái phép chất ma túy.",
+    "expected_context": "article_01_bat-ca-si-chi-dan-nguoi-mau-an-tay-nguyen-do-truc-phuong-lien-quan-ma-tuy-185241114120254879.md"
+  },
+  {
+    "question": "Riêng người mẫu An Tây còn bị khởi tố thêm về hành vi nào?",
+    "expected_answer": "Riêng người mẫu An Tây còn bị khởi tố thêm về hành vi tàng trữ trái phép chất ma túy.",
+    "expected_context": "article_01_bat-ca-si-chi-dan-nguoi-mau-an-tay-nguyen-do-truc-phuong-lien-quan-ma-tuy-185241114120254879.md"
+  },
+  {
+    "question": "Bài VietNamNet về Nguyễn Công Trí nói ông liên quan tới loại đường dây nào?",
+    "expected_answer": "Bài viết nói Nguyễn Công Trí liên quan đến một đường dây mua bán, tàng trữ và sử dụng trái phép chất ma túy.",
+    "expected_context": "article_02_nha-thiet-ke-nguyen-cong-tri-bi-bat-lien-quan-duong-day-ma-tuy-2424939.md"
+  },
+  {
+    "question": "Trong bài VietNamNet, Nguyễn Công Trí được mô tả là người hoạt động trong lĩnh vực nào?",
+    "expected_answer": "Nguyễn Công Trí được mô tả là nhà thiết kế thời trang nổi tiếng trong giới giải trí và thời trang Việt Nam.",
+    "expected_context": "article_02_nha-thiet-ke-nguyen-cong-tri-bi-bat-lien-quan-duong-day-ma-tuy-2424939.md"
+  },
+  {
+    "question": "Bài VietNamNet về Nguyễn Công Trí nhắc tới những chất ma túy nào trong đường dây?",
+    "expected_answer": "Bài viết nhắc tới cần sa và cocain trong quá trình mô tả đường dây ma túy.",
+    "expected_context": "article_02_nha-thiet-ke-nguyen-cong-tri-bi-bat-lien-quan-duong-day-ma-tuy-2424939.md"
+  },
+  {
+    "question": "Diễn viên Hữu Tín bị khởi tố, bắt tạm giam cùng ai theo bài VietNamNet?",
+    "expected_answer": "Diễn viên Hữu Tín bị khởi tố, bắt tạm giam cùng Nguyễn Hoàng Phi.",
+    "expected_context": "article_03_khoi-to-bat-tam-giam-dien-vien-huu-tin-2031172.md"
+  },
+  {
+    "question": "Hữu Tín và Nguyễn Hoàng Phi bị khởi tố về các tội danh nào?",
+    "expected_answer": "Hai người bị khởi tố về tội tàng trữ trái phép chất ma túy và tổ chức sử dụng trái phép chất ma túy.",
+    "expected_context": "article_03_khoi-to-bat-tam-giam-dien-vien-huu-tin-2031172.md"
+  },
+  {
+    "question": "Vụ Hữu Tín bị phát hiện tại địa điểm nào?",
+    "expected_answer": "Bài báo nêu vụ việc được phát hiện khi Công an quận 8 kiểm tra hành chính một căn hộ tại chung cư Giai Việt, phường 5, quận 8.",
+    "expected_context": "article_03_khoi-to-bat-tam-giam-dien-vien-huu-tin-2031172.md"
+  },
+  {
+    "question": "Người mẫu Đinh Nhikolai bị tuyên phạt bao nhiêu năm tù?",
+    "expected_answer": "Người mẫu Đinh Nhikolai bị TAND quận 1, TP.HCM tuyên phạt 2 năm tù.",
+    "expected_context": "article_04_nguoi-mau-dinh-nhikolai-lanh-an-2-nam-tu-vi-ma-tuy-2384631.md"
+  },
+  {
+    "question": "Đinh Nhikolai bị tuyên phạt về tội gì?",
+    "expected_answer": "Đinh Nhikolai bị tuyên phạt về tội tàng trữ trái phép chất ma túy.",
+    "expected_context": "article_04_nguoi-mau-dinh-nhikolai-lanh-an-2-nam-tu-vi-ma-tuy-2384631.md"
+  },
+  {
+    "question": "Bài về Đinh Nhikolai nói ông từng được biết đến với biệt danh gì?",
+    "expected_answer": "Bài báo nói Đinh Nhikolai từng được biết đến với biệt danh nam thần lai Nga.",
+    "expected_context": "article_04_nguoi-mau-dinh-nhikolai-lanh-an-2-nam-tu-vi-ma-tuy-2384631.md"
+  },
+  {
+    "question": "Bài tổng hợp VietNamNet nhắc tới những sao Việt hoặc người nổi tiếng nào liên quan chất cấm?",
+    "expected_answer": "Bài tổng hợp nhắc tới các trường hợp như Hiệp Gà, Hữu Tín, Chu Bin, Chi Dân và An Tây.",
+    "expected_context": "article_05_sao-viet-bi-bat-ngoi-tu-mat-danh-tieng-vi-chat-cam-2513746.md"
+  }
+]

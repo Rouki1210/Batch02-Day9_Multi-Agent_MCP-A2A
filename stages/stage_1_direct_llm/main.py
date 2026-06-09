@@ -19,7 +19,7 @@ from langchain_core.messages import HumanMessage, SystemMessage
 
 from common.llm import get_llm
 
-QUESTION = "Hậu quả pháp lý và quy định của việc một công ty phá vỡ hợp đồng và tránh thuế là gì?"
+QUESTION = "Làm như nào để một công ty có thể giảm thiểu rủi ro pháp lý khi thuê nhân viên?"
 
 
 async def main():
